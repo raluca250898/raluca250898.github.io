@@ -1,13 +1,6 @@
 
 
 
-<html>
-
-<head>
-  
-  <title>Assignment 2</title>
-</head>
-
 <body>
     <h1>Task 1</h1>
     <img src="acs.png" alt="logo">
